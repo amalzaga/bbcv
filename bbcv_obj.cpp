@@ -11,7 +11,7 @@
 *                 compile with: g++ bbcv_obj.cpp -o bbcv_obj `pkg-config --cflags --libs opencv`
 *
 *
-*   Written by: Amador Alzaga
+*   Written by: Amador Alzaga - amadoralzaga.com
 *
 *************************************************************************************************/
 

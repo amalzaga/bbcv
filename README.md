@@ -3,4 +3,6 @@ Example of using opencv libraries with C++ on beaglebone black with USB webcam t
 
 Written by Amador Alzaga - amadoralzaga.com - for reference and with the hope it will be helpful...
 
-compile with: g++ bbcv_obj.cpp -o bbcv_obj `pkg-config --cflags --libs opencv`
+- compile with: 
+
+      $ g++ bbcv_obj.cpp -o bbcv_obj `pkg-config --cflags --libs opencv`
